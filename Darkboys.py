@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \033[1;93m: \033[1;92mUsman tech
 \033[1;96mInstagram \033[1;93m: \033[1;FlowUsmankhan5792
 \033[1;96mFacebook  \033[1;93m: \033[1; 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheDarkstorm/hero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheDarkstorm/zilesha
 \033[1;91m======================================="""
 
 def tik():
@@ -83,7 +83,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mUsman tecb
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowUsmankhan5792
 \033[1;96mFacebook  \033[1;93m: \033[1;92m 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheDarkstorm/hero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheDarkstorm/zilesh
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
